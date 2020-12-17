@@ -1,0 +1,37 @@
+body {
+ background-color: lightblue;
+}
+h1 {
+ color: navy;
+ font-family: verdana;
+}
+
+p {
+ font-family: verdana;
+}
+/* unvisited link */
+a:link {
+  color: red;
+  font-family: verdana;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+  font-family: verdana;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  font-family: verdana;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+  font-family: verdana;
+}
+h1 {
+  text-align: center;
+}
